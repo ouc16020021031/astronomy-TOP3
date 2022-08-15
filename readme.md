@@ -1,5 +1,5 @@
 ## 智源杯天文数据算法挑战赛-TOP3方案
-比赛连接： [智源杯天文数据算法挑战赛](https://www.biendata.com/competition/astrodata2019/)
+比赛连接： [智源杯天文数据算法挑战赛](https://www.biendata.xyz/competition/astrodata2019/)
 
 队伍：CNS 
 
